@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 header:
-	image: "/images/appicon.png"
+    image: "/images/appicon.png"
 ---
 
 {% include base_path %}
