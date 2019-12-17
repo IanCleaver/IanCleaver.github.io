@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ian S. Cleaver"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/avatar.jpg   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Computer Science** Portfolio."
   location         : "Tallahassee, Fl"
   email            : 
