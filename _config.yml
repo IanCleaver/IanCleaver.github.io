@@ -113,10 +113,10 @@ author:
   location         : "Tallahassee, Fl"
   email            : 
   links:
-    - label: "Email: ianscott0822@gmail"
+    - label: "ianscott0822@gmail"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:ianscott0822@gmail.com
-    - label: "Cellphone: (321) 499-0817"
+    - label: "(321) 499-0817"
       icon: "fas fa-fw fa-mobile"
       url: "https://iancleaver.github.io/"
     - label: "LinkedIn"
