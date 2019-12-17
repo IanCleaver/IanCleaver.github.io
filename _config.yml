@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -115,44 +115,44 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:ianscott0822@gmail.com
+       url: mailto:ianscott0822@gmail.com
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://linkedin.com/in/ian-cleaver"
+       url: "https://linkedin.com/in/ian-cleaver"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/ian.pasayes"
+       url: "https://facebook.com/ian.pasayes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/iancleaver"
+       url: "https://github.com/iancleaver"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/ian_cleaver"
+       url: "https://instagram.com/ian_cleaver"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:ianscott0822@gmail.com
+       url: mailto:ianscott0822@gmail.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/ian.pasayes"
+       url: "https://facebook.com/ian.pasayes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/iancleaver"
+       url: "https://github.com/iancleaver"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-bitbucket"
-      # url: "https://linkedin.com/in/ian-cleaver"
+       url: "https://linkedin.com/in/ian-cleaver"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/ian_cleaver"
+       url: "https://instagram.com/ian_cleaver"
 
 
 # Reading Files
