@@ -116,8 +116,11 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:ianscott0822@gmail.com
+    - label: "Cellphone"
+      icon: "fas fa-fw fa-mobile"
+      url: "(321) 499-0817"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://linkedin.com/in/ian-cleaver"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -135,9 +138,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Cellphone"
-      icon: "fas fa-fw fa-mobile"
-      url: "(321) 499-0817"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:ianscott0822@gmail.com

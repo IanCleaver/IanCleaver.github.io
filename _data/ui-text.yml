@@ -8,6 +8,7 @@ en: &DEFAULT_EN
   skip_content               : "Skip to content"
   skip_footer                : "Skip to footer"
   page                       : "Page"
+  cell                       : "Cellphone"
   pagination_previous        : "Previous"
   pagination_next            : "Next"
   breadcrumb_home_label      : "Home"
