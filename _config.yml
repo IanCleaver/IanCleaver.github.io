@@ -294,9 +294,9 @@ defaults:
       related: true
       
    # _pages
-   - scope: 
+  - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
-      author profile: true
+      author_profile: true
