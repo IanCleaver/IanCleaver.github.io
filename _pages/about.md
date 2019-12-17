@@ -1,9 +1,9 @@
-
+---
 title: "About"
 permalink: /about/
 header:
 	image: "/images/image.jpg"
-
+---
 
 I am a Sophomore studying Computer Science in Florida State University who excels at programming in C and C++. 
 I am passionate and determined to find new learning experiences. 
