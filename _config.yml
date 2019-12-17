@@ -113,14 +113,14 @@ author:
   location         : "Tallahassee, Fl"
   email            : 
   links:
-    - label: "ianscott0822@gmail"
+    - label: "ianscott0822@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:ianscott0822@gmail.com
     - label: "(321) 499-0817"
       icon: "fas fa-fw fa-mobile"
       url: "https://iancleaver.github.io/"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa fa-linkedin"
       url: "https://linkedin.com/in/ian-cleaver"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -138,9 +138,12 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
+    - label: "ianscott0822@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:ianscott0822@gmail.com
+    - label: "(321) 499-0817"
+      icon: "fas fa-fw fa-mobile"
+      url: "https://iancleaver.github.io/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       #url: "https://facebook.com/ian.pasayes"
