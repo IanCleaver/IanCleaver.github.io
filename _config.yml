@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-mobile"
       url: "https://iancleaver.github.io/"
     - label: "LinkedIn"
-      icon: /images/linked_icon.jpg
+      icon: "/images/linked_icon.jpg"
       url: "https://www.linkedin.com/in/ian-cleaver/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
